@@ -1,0 +1,3 @@
+import CardedWithSidebarsContentScrollComponent from './CardedWithSidebarsContentScrollComponent';
+
+export default CardedWithSidebarsContentScrollComponent;

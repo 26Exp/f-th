@@ -1,0 +1,3 @@
+import FullScreenConfirmationRequiredPage from './FullScreenConfirmationRequiredPage';
+
+export default FullScreenConfirmationRequiredPage;

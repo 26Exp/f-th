@@ -1,0 +1,11 @@
+/**
+ * Tailwind's utility classes, generated based on your config file.
+ */
+
+@tailwind utilities;
+
+@layer utilities {
+    [dir="rtl"] [class*="space-x-"] > :not([hidden]) ~ :not([hidden]) {
+        --tw-space-x-reverse: 1;
+    }
+}

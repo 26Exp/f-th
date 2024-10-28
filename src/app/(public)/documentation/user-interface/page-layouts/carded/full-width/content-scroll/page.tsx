@@ -1,0 +1,3 @@
+import CardedFullWidthContentScrollComponent from './CardedFullWidthContentScrollComponent';
+
+export default CardedFullWidthContentScrollComponent;

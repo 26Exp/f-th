@@ -1,0 +1,3 @@
+import SplitScreenConfirmationRequiredPage from './SplitScreenConfirmationRequiredPage';
+
+export default SplitScreenConfirmationRequiredPage;

@@ -1,0 +1,3 @@
+import FullScreenReversedResetPasswordPage from './FullScreenReversedResetPasswordPage';
+
+export default FullScreenReversedResetPasswordPage;

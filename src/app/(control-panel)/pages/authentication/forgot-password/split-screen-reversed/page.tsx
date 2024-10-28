@@ -1,0 +1,3 @@
+import SplitScreenReversedForgotPasswordPage from './SplitScreenReversedForgotPasswordPage';
+
+export default SplitScreenReversedForgotPasswordPage;
